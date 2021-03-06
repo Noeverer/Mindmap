@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2021-03-06T13:03:25.950Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="b1ZiJokLIbvMa-eYYW_b" version="14.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-06T13:06:04.188Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="He1ZsUub7mctQQoTKErC" version="14.4.4" type="github">
   <diagram id="efgcIDd-TDXN1GQC0pDD" name="第 1 页">
     <mxGraphModel dx="1209" dy="599" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="EhJ2OECVo1qDTwe-o5zJ-1" value="通用的教师学生知识蒸馏模型" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;opacity=0;" parent="1" vertex="1">
+        <mxCell id="EhJ2OECVo1qDTwe-o5zJ-1" value="通用的教师学生知识蒸馏模型" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="80" width="530" height="310" as="geometry">
             <mxRectangle x="40" y="80" width="80" height="20" as="alternateBounds" />
           </mxGeometry>
