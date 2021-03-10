@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-10T15:09:59.073Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="PpqDXLgZA08XVok49xdI" version="14.4.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-03-10T15:10:58.388Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="6XmKoKRaEnUSs8x-u01K" version="14.4.6" type="github" pages="2">
   <diagram id="QFHAvYN9q7vDJ9PIt5aK" name="第 1 页">
     <mxGraphModel dx="1209" dy="1749" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -946,7 +946,7 @@
         <mxCell id="vlmetSuLja-qtJO1XYlA-21" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;shadow=1;" vertex="1" parent="mcpQueFzZBMoqvC9hgvl-1">
           <mxGeometry x="450" y="120" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="vlmetSuLja-qtJO1XYlA-29" value="$h_{i}^{T}$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" vertex="1" parent="mcpQueFzZBMoqvC9hgvl-1">
+        <mxCell id="vlmetSuLja-qtJO1XYlA-29" value="$$h_{i}^{T}$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" vertex="1" parent="mcpQueFzZBMoqvC9hgvl-1">
           <mxGeometry x="470" y="115" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
