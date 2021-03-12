@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-12T06:06:03.277Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="5ow_S4MvRkAATAzl9VKx" version="14.4.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-12T06:12:32.645Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="69WpKoUXyofE2G6CSrOo" version="14.4.7" type="github">
   <diagram id="CCF14BdAKm4wxbj0LPr0" name="第 1 页">
     <mxGraphModel dx="1209" dy="599" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -375,6 +375,34 @@
         </mxCell>
         <mxCell id="P4LfsCkp0AAmiIVGXh1K-156" value="微调阶段" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="620" y="320" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="P4LfsCkp0AAmiIVGXh1K-162" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=block;endFill=1;strokeWidth=3;fillColor=#ffffff;gradientColor=#66FF66;dashed=1;strokeColor=#FFFF66;" edge="1" parent="1" source="P4LfsCkp0AAmiIVGXh1K-157" target="P4LfsCkp0AAmiIVGXh1K-44">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="245" y="450" />
+              <mxPoint x="170" y="450" />
+              <mxPoint x="170" y="490" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P4LfsCkp0AAmiIVGXh1K-165" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=block;endFill=1;strokeWidth=3;fillColor=#ffffff;gradientColor=#66FF66;dashed=1;strokeColor=#FFFF66;" edge="1" parent="1" source="P4LfsCkp0AAmiIVGXh1K-157" target="P4LfsCkp0AAmiIVGXh1K-45">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="285" y="490" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P4LfsCkp0AAmiIVGXh1K-166" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=block;endFill=1;strokeWidth=3;fillColor=#ffffff;gradientColor=#66FF66;dashed=1;strokeColor=#FFFF66;" edge="1" parent="1" source="P4LfsCkp0AAmiIVGXh1K-157" target="P4LfsCkp0AAmiIVGXh1K-46">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="285" y="490" />
+              <mxPoint x="320" y="500" />
+              <mxPoint x="340" y="470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P4LfsCkp0AAmiIVGXh1K-157" value="梯度角动量知识蒸馏" style="text;html=1;strokeColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#FFFF66;" vertex="1" parent="1">
+          <mxGeometry x="245" y="430" width="80" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
