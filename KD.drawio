@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2021-04-01T14:39:23.133Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="q64QlNeQhjqhYmPRrkeP" version="14.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-29T02:17:14.566Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="wQTQ2oACY0kSFrQb8_6j" version="14.7.1" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="1209" dy="599" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2015" dy="1138" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="dNxyNK7c78bLwvsdeMH5-11" value="知识蒸馏的示意结构及相邻部分之间的关系" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;dashed=1;opacity=0;" parent="1" vertex="1">
+        <mxCell id="dNxyNK7c78bLwvsdeMH5-11" value="" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;dashed=1;opacity=0;" parent="1" vertex="1">
           <mxGeometry x="40" y="80" width="730" height="400" as="geometry" />
         </mxCell>
         <mxCell id="fHFXEYRth0fKNdJPOMud-50" value="" style="shape=mxgraph.arrows.bent_up_arrow;html=1;verticalLabelPosition=bottom;verticalAlign=top;strokeWidth=2;fontFamily=Helvetica;rotation=90;gradientDirection=north;strokeColor=none;gradientColor=#9999FF;direction=west;flipH=1;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
@@ -114,6 +114,114 @@
         </mxCell>
         <mxCell id="fHFXEYRth0fKNdJPOMud-55" value="" style="shape=mxgraph.arrows.arrow_left;html=1;verticalLabelPosition=bottom;verticalAlign=top;strokeWidth=2;fillColor=#ffffff;fontFamily=Helvetica;strokeColor=none;gradientColor=#9999FF;flipH=1;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
           <mxGeometry x="422" y="280" width="40" height="45.13" as="geometry" />
+        </mxCell>
+        <mxCell id="HNRTS0bg6VK8F47SUHGO-37" value="" style="shape=mxgraph.arrows.bent_up_arrow;html=1;verticalLabelPosition=bottom;verticalAlign=top;strokeWidth=2;fontFamily=Helvetica;rotation=90;gradientDirection=north;strokeColor=none;gradientColor=#9999FF;direction=west;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="298.71000000000004" y="831.9" width="61.63" height="168.81" as="geometry" />
+        </mxCell>
+        <mxCell id="HNRTS0bg6VK8F47SUHGO-38" value="" style="shape=mxgraph.arrows.bent_up_arrow;html=1;verticalLabelPosition=bottom;verticalAlign=top;strokeWidth=2;fontFamily=Helvetica;rotation=-90;gradientDirection=north;strokeColor=none;gradientColor=#9999FF;" vertex="1" parent="1">
+          <mxGeometry x="299.5" y="617.51" width="61.63" height="152.62" as="geometry" />
+        </mxCell>
+        <mxCell id="HNRTS0bg6VK8F47SUHGO-39" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fontFamily=Helvetica;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="302" y="705" width="170" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="HNRTS0bg6VK8F47SUHGO-40" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fontFamily=Helvetica;fillColor=#D5E8D4;" vertex="1" parent="1">
+          <mxGeometry x="510" y="625" width="218" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="HNRTS0bg6VK8F47SUHGO-41" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fillColor=#E5CCFF;dashed=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="510" y="815" width="218" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="HNRTS0bg6VK8F47SUHGO-42" value="基于响应的知识" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFCC;" vertex="1" parent="1">
+          <mxGeometry x="132" y="625" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HNRTS0bg6VK8F47SUHGO-43" value="基于特征的知识" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFCC;" vertex="1" parent="1">
+          <mxGeometry x="132" y="665" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HNRTS0bg6VK8F47SUHGO-44" value="基于关系的知识" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFCC;" vertex="1" parent="1">
+          <mxGeometry x="132" y="705" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HNRTS0bg6VK8F47SUHGO-45" value="离线蒸馏" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#7EA6E0;" vertex="1" parent="1">
+          <mxGeometry x="132" y="775" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HNRTS0bg6VK8F47SUHGO-46" value="在线蒸馏" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#7EA6E0;" vertex="1" parent="1">
+          <mxGeometry x="132" y="815" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HNRTS0bg6VK8F47SUHGO-47" value="自蒸馏" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#7EA6E0;" vertex="1" parent="1">
+          <mxGeometry x="132" y="855" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HNRTS0bg6VK8F47SUHGO-48" value="性能对比" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#66CC00;" vertex="1" parent="1">
+          <mxGeometry x="132" y="915" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HNRTS0bg6VK8F47SUHGO-49" value="背景" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fillColor=#B9E0A5;" vertex="1" parent="1">
+          <mxGeometry x="324.5" y="610" width="125" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="HNRTS0bg6VK8F47SUHGO-50" value="知识" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="323" y="725" width="125" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HNRTS0bg6VK8F47SUHGO-51" value="教师学生模型" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="323" y="845" width="125" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HNRTS0bg6VK8F47SUHGO-52" value="蒸馏" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="323" y="785" width="125" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HNRTS0bg6VK8F47SUHGO-53" value="基于对抗" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="518" y="655" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HNRTS0bg6VK8F47SUHGO-54" value="多教师" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="589" y="655" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HNRTS0bg6VK8F47SUHGO-55" value="交叉学习" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="659" y="655" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HNRTS0bg6VK8F47SUHGO-56" value="基于图" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="518" y="695" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HNRTS0bg6VK8F47SUHGO-57" value="注意力机制" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="589" y="695" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HNRTS0bg6VK8F47SUHGO-58" value="数据生成" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="659" y="695" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HNRTS0bg6VK8F47SUHGO-59" value="量化" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="518" y="735" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HNRTS0bg6VK8F47SUHGO-60" value="终身学习" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="589" y="735" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HNRTS0bg6VK8F47SUHGO-61" value="基于NAS" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="659" y="735" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HNRTS0bg6VK8F47SUHGO-62" value="视觉检测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="518.5" y="845" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HNRTS0bg6VK8F47SUHGO-63" value="自然语言处理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="629.5" y="845" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HNRTS0bg6VK8F47SUHGO-64" value="语音识别" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="518.5" y="885" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HNRTS0bg6VK8F47SUHGO-65" value="其他应用" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="629.5" y="885" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HNRTS0bg6VK8F47SUHGO-66" value="应用层面" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="584.5" y="820" width="69" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HNRTS0bg6VK8F47SUHGO-67" value="知识蒸馏的方法" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="562.5" y="625" width="113" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HNRTS0bg6VK8F47SUHGO-68" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fontFamily=Helvetica;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="122" y="765" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="HNRTS0bg6VK8F47SUHGO-69" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fontFamily=Helvetica;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="122" y="615" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="HNRTS0bg6VK8F47SUHGO-70" value="" style="shape=mxgraph.arrows.arrow_left;html=1;verticalLabelPosition=bottom;verticalAlign=top;strokeWidth=2;fillColor=#ffffff;fontFamily=Helvetica;strokeColor=none;gradientColor=#9999FF;" vertex="1" parent="1">
+          <mxGeometry x="252" y="785" width="70" height="45.13" as="geometry" />
+        </mxCell>
+        <mxCell id="HNRTS0bg6VK8F47SUHGO-71" value="" style="shape=mxgraph.arrows.arrow_left;html=1;verticalLabelPosition=bottom;verticalAlign=top;strokeWidth=2;fillColor=#ffffff;fontFamily=Helvetica;strokeColor=none;gradientColor=#9999FF;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="472" y="719.87" width="40" height="45.13" as="geometry" />
+        </mxCell>
+        <mxCell id="HNRTS0bg6VK8F47SUHGO-72" value="" style="shape=mxgraph.arrows.arrow_left;html=1;verticalLabelPosition=bottom;verticalAlign=top;strokeWidth=2;fillColor=#ffffff;fontFamily=Helvetica;strokeColor=none;gradientColor=#9999FF;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="472" y="840" width="40" height="45.13" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
